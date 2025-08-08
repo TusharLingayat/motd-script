@@ -1,2 +1,2 @@
-Welcome to the Tushar Server!
-Unauthorized access is prohibited.
+echo "Welcome to the Tushar Server!"
+
